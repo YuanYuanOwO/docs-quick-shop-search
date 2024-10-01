@@ -8,11 +8,11 @@ In order to successfully install this plugin, please ensure that it's dependenci
 
 ## Dependency ItemPredicateParser
 
-Used to parse language-specific item predicates; follow it's [Installation Guide](https://blvckbytes.github.io/docs-item-predicate-parser/installation).
+Used to parse language-specific item predicates; follow its [Installation Guide](https://blvckbytes.github.io/docs-item-predicate-parser/installation).
 
 ## Dependency QuickShop-Hikari
 
-Manages the shops queried by this shop-browser; follow it's [Installation Guide](https://quickshop-community.github.io/QuickShop-Hikari-Documents/docs/setup/install).
+Manages the shops queried by this shop-browser; follow its [Installation Guide](https://quickshop-community.github.io/QuickShop-Hikari-Documents/docs/setup/install).
 
 ## Self
 
